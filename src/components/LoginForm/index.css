@@ -17,7 +17,7 @@
 }
 
 .login-website-logo-mobile-img {
-  width: 165px;
+  width: 185px;
   margin-top: 50px;
   margin-bottom: 35px;
 }
@@ -73,7 +73,7 @@
 .input-container {
   display: flex;
   flex-direction: column;
-  margin-top: 20px;
+  margin-top: 30px;
   width: 100%;
 }
 
@@ -128,7 +128,7 @@
 
 .error-message {
   align-self: start;
-  font-size: 12px;
+  font-size: 2px;
   margin-top: 3px;
   margin-bottom: 0px;
   font-family: 'Roboto';
